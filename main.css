@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	font: medium 'Roboto Condensed', 'Noto Sans TC', sans-serif;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+#back{
+	width: 40px;
+	height: 40px;
+}
+.title{
+    padding-left: 40px;
+
+}
+
+.button{
+	text-align: center;
+    font-size: 4em;
+    font-weight: bold;
+
+}
+form{
+    text-align: center;
+}
+.ip1{
+	width: 400px;
+	height: 50px;
+	font-size: 2.5em;
+	margin-bottom: 5px;
+}
+.title{
+	margin-bottom: 10px;
+}
+.smt{
+    margin: 10px 0;
+	font-size: 2em;
+	color: #FFFFFF;
+	width: 200px;
+	height: 50px;
+	border: 0;
+	border-radius: 10px;
+	font-weight: bold;
+}
